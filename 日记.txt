@@ -1,5 +1,9 @@
 ½ñÌìÎÒºÜ¿ªĞÄ£¡
 ½ñÌì²»¿ªĞÄ£¡
 hello world!
+<<<<<<< HEAD
 hello world!
 ºÇºÇßÕ
+=======
+hello world!
+>>>>>>> parent of cf969ce... ä¿®æ”¹äº†
